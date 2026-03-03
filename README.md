@@ -35,15 +35,15 @@ Weather Know allows users to search for any city and view real-time weather deta
 
 ### ❄️ Cold Weather
 
-![Cold Weather](./screenshots/Cold Weather.png)
+![Cold Weather](./screenshots/ColdFile%20Weather.png)
 
 ### ☀️ Hot Weather
 
-![Hot Weather](./screenshots/Hot Weather.png)
+![Hot Weather](./screenshots/HotFile%20Weather.png)
 
 ### 🌧️ Rainy Weather
 
-![Rain Weather](./screenshots/Rain Weather.png)
+![Rain Weather](./screenshots/RainFile%20Weather.png)
 
 ---
 
@@ -51,39 +51,6 @@ Weather Know allows users to search for any city and view real-time weather deta
 
 ![Project File Structure](./screenshots/File%20tree.png)
 
-```
-Weather-Know/
-│
-├── public/
-│   └── vite.svg
-│
-├── screenshots/
-│   ├── Cold Weather.png
-│   ├── Hot Weather.png
-│   ├── Rain Weather.png
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── InfoBox.jsx
-│   │   ├── SearchBox.jsx
-│   │   ├── WeatherApp.jsx
-│   │   └── WeatherApp.css
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── .gitignore
-├── README.md
-├── eslint.config.js
-├── index.html
-├── package.json
-└── vite.config.js
-```
-
----
 
 ## 🔧 Installation & Setup
 
