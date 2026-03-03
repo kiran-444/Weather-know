@@ -35,15 +35,15 @@ Weather Know allows users to search for any city and view real-time weather deta
 
 ### ❄️ Cold Weather
 
-![Cold Weather](./screenshots/ColdFile%20Weather.png)
+![Cold Weather](./screenshots/Cold-Weather.png)
 
 ### ☀️ Hot Weather
 
-![Hot Weather](./screenshots/HotFile%20Weather.png)
+![Hot Weather](./screenshots/Hot-Weather.png)
 
 ### 🌧️ Rainy Weather
 
-![Rain Weather](./screenshots/RainFile%20Weather.png)
+![Rain Weather](./screenshots/Rain-Weather.png)
 
 ---
 
